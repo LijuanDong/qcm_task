@@ -1,1 +1,1 @@
-# qmc_task
+# Solution to QCM tasks
